@@ -73,3 +73,5 @@ Payment Channel Strategy:
 
 ✅ Increased overall profitability and operational efficiency
 
+### Screenshot:
+[!Dashboard Preview](https://github.com/Chaitra-VL-11/Client-Revenue-Profit-Analysis-Dashboard/blob/main/Screenshot%202025-04-24%20180349.png)
